@@ -1,5 +1,5 @@
 # 10yr Video Game Market Analysis
-# Uncovering the "Five-Platform Ceiling": A 10-year full-stack analysis of the video game industry.This project leverages Python and MySQL to process thousands of records from the RAWG API, identifying the exact point where platform distribution meets diminishing returns.
+# Uncovering the "Five-Platform Ceiling": A 10-year full-stack analysis of the video game industry. This project leverages Python and MySQL to process thousands of records from the RAWG API, identifying the exact point where platform distribution meets diminishing returns.
 
 <img width="1878" height="1071" alt="image" src="https://github.com/user-attachments/assets/d310e65c-3622-43c0-a4e9-426ade92e83a" />
 
