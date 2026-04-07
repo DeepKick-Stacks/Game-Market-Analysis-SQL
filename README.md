@@ -1,4 +1,4 @@
-# Game-Market-Analysis-SQL
+# 10yr Video Game Market Analysis
 # Uncovering the "Five-Platform Ceiling": A 10-year full-stack analysis of the video game industry.This project leverages Python and MySQL to process thousands of records from the RAWG API, identifying the exact point where platform distribution meets diminishing returns.
 
 <img width="1878" height="1071" alt="image" src="https://github.com/user-attachments/assets/d310e65c-3622-43c0-a4e9-426ade92e83a" />
@@ -11,7 +11,7 @@ Game-Market-Analysis-SQL:
 Project Overview:
     The aim of my project was to develop a full-stack data pipeline to analyze global video game market trends from 2010–2020. By bridging the gap between raw API data and strategic business insights, I identified critical patterns in platform distribution and genre evolution.
 
-The Tech Stack:
+## The Tech Stack:
 
     Data Extraction: Python (Requests, Pandas) leveraging the RAWG API
 
@@ -19,10 +19,7 @@ The Tech Stack:
 
     Visualization & Analytics: Tableau Desktop
 
-Key Finding: The "Five-Platform Ceiling"
-  Through SQL aggregation of over a decade of market data, I identified a distinct ROI peak at five platforms.
-  While expanding to multiple platforms initially drives a linear increase in sales, games released on 6+ platforms showed a plateau in marginal returns.
-  This suggests that for most developers, the cost of porting and maintaining additional versions often outweighs the increased market reach.
+# Key Finding: The "Five-Platform Ceiling" Through SQL aggregation of over a decade of market data, I identified a distinct ROI peak at five platforms.While expanding to multiple platforms initially drives a linear increase in sales, games released on 6+ platforms showed a plateau in marginal returns. This suggests that for most developers, the cost of porting and maintaining additional versions often outweighs the increased market reach.
 
 Data Architecture:
 Applying the technical rigor from my A+ Certification, I built this project with a focus on system integrity and efficient data flow.
