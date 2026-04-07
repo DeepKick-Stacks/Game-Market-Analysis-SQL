@@ -33,15 +33,15 @@ Applying the technical rigor from my A+ Certification, I built this project with
 
     Analysis: Advanced SQL queries to extract multi-year trends and platform-specific performance metrics.
 
-📂 Repository Structure
+ Repository Structure
 
-    📂 scripts/: Python extraction and cleaning scripts.
+     scripts/: Python extraction and cleaning scripts.
 
-    📂 database/: SQL schema files and table setups.
+     database/: SQL schema files and table setups.
 
-    📂 queries/: Analysis queries used to uncover market insights.
+     queries/: Analysis queries used to uncover market insights.
 
-    📂 reports/: Full technical project summary (PDF).
+     reports/: Full technical project summary (PDF).
 
 # Note on Methodology: > "This project was developed using an AI-augmented workflow. I utilized LLMs for code optimization, SQL query debugging, and technical documentation, ensuring a high standard of code quality and project structure while maintaining full ownership of the data architecture and strategic analysis."
     
