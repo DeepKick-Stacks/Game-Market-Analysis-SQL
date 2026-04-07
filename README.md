@@ -1,8 +1,9 @@
 # Game-Market-Analysis-SQL
-# This is a 10yr Market analysis from 2010-2020. This is a full-stack project that uses data pulled from RAWG API.
+# Uncovering the "Five-Platform Ceiling": A 10-year full-stack analysis of the video game industry.This project leverages Python and MySQL to process thousands of records from the RAWG API, identifying the exact point where platform distribution meets diminishing returns.
+
 <img width="1878" height="1071" alt="image" src="https://github.com/user-attachments/assets/d310e65c-3622-43c0-a4e9-426ade92e83a" />
 
-Detailed Description below
+Detailed Description below:
 
 Game-Market-Analysis-SQL:
      An End-to-End Data Engineering & Business Intelligence Project
